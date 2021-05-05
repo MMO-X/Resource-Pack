@@ -4,7 +4,7 @@
         "description": "MMOX",
         "name": "MMOX",
         "uuid": "ae694d84-6d5d-9d5f-0dad-f06ed4fbff70",
-        "version": [0, 0, 10],
+        "version": [0, 0, 11],
         "min_engine_version": [1, 16, 0]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "MMOX",
             "type": "resources",
             "uuid": "375acdd5-22b1-8d85-a72d-9a1fcaba8b2b",
-            "version": [0, 0, 10]
+            "version": [0, 0, 11]
         }
     ]
 }
